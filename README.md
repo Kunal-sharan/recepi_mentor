@@ -20,3 +20,7 @@
 - only click on the **buttons** for any action, do not press **Enter** from the keyboard.
 - Don't click anything when the process is running.
 - Dealing with chatbot please wait for it to reply may face some latency issues
+# DEMO
+### Check out this video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ziqWFtL1bCo" frameborder="0" allowfullscreen></iframe>
