@@ -22,5 +22,4 @@
 - Dealing with chatbot please wait for it to reply may face some latency issues
 # DEMO
 ### Check out this video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ziqWFtL1bCo" frameborder="0" allowfullscreen></iframe>
+[![Watch the video]()](https://www.youtube.com/watch?v=ziqWFtL1bCo)
