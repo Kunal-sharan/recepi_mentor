@@ -1,0 +1,17 @@
+streamlit
+json
+typing
+random
+time
+langchain-core
+spacy
+beautifulsoup4
+requests
+youtube-transcript-api
+scipy
+sentence-transformers
+dataclasses
+langchain
+langchain-groq
+sentence-transformers
+sklearn
