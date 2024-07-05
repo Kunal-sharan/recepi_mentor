@@ -22,4 +22,4 @@
 - Dealing with chatbot please wait for it to reply may face some latency issues
 # DEMO
 ### Check out this video:
-[![Watch the video]()](https://www.youtube.com/watch?v=ziqWFtL1bCo)
+[![Watch the video](https://img.youtube.com/vi/ziqWFtL1bCo/0.jpg)](https://www.youtube.com/watch?v=ziqWFtL1bCo)
